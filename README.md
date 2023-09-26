@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @loidpadre
-- 👀 I’m interested in React.js (java script)
+- 👀 I’m interested in React.js (Java-script, Html, css)
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me loidpadre@gmail.com

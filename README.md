@@ -1,4 +1,4 @@
-  ## Oiii, eu sou o Loid Padre 👋, Desenvolvedor Web Front-End.
+  ## Oiii, eu sou o Loid Padre 👋, Desenvolvedor Web.
 <div style="display: inline_block"><br>
   <img align="center" alt="Loid-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Loid-React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
